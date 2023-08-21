@@ -5,7 +5,7 @@ interface ProductItemProps {
   product: Product;
 }
 
-const ProductItem: FC<ProductItemProps> = ({ product }) => {
+const BestProduct: FC<ProductItemProps> = ({ product }) => {
   const { img, alt, title, price } = product;
   return (
     <div className=" rounded-lg bg-white/60 p-4 text-right cursor-pointer transition-all duration-300 ease-linear hover:scale-105 hover:bg-white/65 hover:shadow-xl">
@@ -20,4 +20,4 @@ const ProductItem: FC<ProductItemProps> = ({ product }) => {
   );
 };
 
-export default ProductItem;
+export default BestProduct;

@@ -5,7 +5,7 @@ import Logo from "../assets/img/Beens.png";
 
 const LoveCoffee: FC = () => {
   return (
-    <section className="flex justify-center items-center bg-[url('./assets/img/OurCoffee.png')] bg-cover bg-no-repeat h-screen -mt-[68px]">
+    <section className="flex justify-center items-center bg-[url('./assets/img/OurCoffee.png')] bg-cover bg-no-repeat h-screen -mt-[72px]">
       <motion.div
         initial={{ opacity: 0, scale: 0.8,}}
         whileInView={{ opacity: 1, scale: 1, }}

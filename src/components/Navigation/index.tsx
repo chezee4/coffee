@@ -16,7 +16,7 @@ const Navigation: FC = () => {
       initial={{ opacity: 0, scale: 0.8, y: -30, x: -120 }}
       animate={{ opacity: 1, scale: 1, y: 0, x: 0 }}
       transition={{ duration: 0.8 }}
-      className="  relative flex max-w-max sm:gap-x-8 gap-x-3 pt-11 ml-2 sm:ml-12"
+      className="  relative flex max-w-max sm:gap-x-8 gap-x-3 pt-12 ml-2 sm:ml-12"
       onMouseEnter={() => setIsHovered(true)}
       onMouseLeave={() => setIsHovered(false)}
     >

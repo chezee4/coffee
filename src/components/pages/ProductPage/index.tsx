@@ -1,13 +1,20 @@
 import { FC } from "react";
 import { useParams } from "react-router-dom";
-import { products } from "../../Constants";
-import { Product } from "../../model";
+
+import SectionBg from "../../SectionBg";
+import ProductDescription from "../../ProductDescription";
+
 const ProductPage: FC = () => {
   const { id } = useParams();
-  const { description, price, country, title } = products.find(
-    (coffee) => coffee.id === id
-  ) as Product;
-  return <div></div>;
+ 
+  return (
+    <main>
+      <SectionBg variant="OurCoffee" title="Our Coffee" />
+      <section>
+       <ProductDescription id={id!}/>
+      </section>
+    </main>
+  );
 };
 
 export default ProductPage;

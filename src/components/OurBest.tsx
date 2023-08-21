@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 import { motion } from "framer-motion";
 
 import { bestCoffee } from "./utils";
-import ProductItem from "./Product";
+import BestProduct from "./BestProduct";
 import { products } from "./Constants";
 
 const OurBest: FC = () => {
@@ -32,7 +32,7 @@ const OurBest: FC = () => {
                   ease: "linear",
                 }}
               >
-                <ProductItem product={product} />
+                <BestProduct product={product} />
               </motion.div>
             </Link>
           ))}

@@ -11,3 +11,9 @@ export type Product = {
 export type GlobalContextType = {
     products: Product[];
   };
+
+export type FilterState ={
+    search: string;
+    filterButton: string;
+  }
+  

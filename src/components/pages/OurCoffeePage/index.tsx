@@ -6,11 +6,13 @@ import FilterProvider from "../../context/box";
 import CoffeeList from "../../CoffeeList";
 import SectionDescription from "../../SectionDescription";
 
-const OurCoffee: FC = () => {
+import imgGirl from "../../../assets/img/HomeGirl.jpg";
+
+const OurCoffeePage: FC = () => {
   return (
     <main>
       <SectionBg variant="OurCoffee" title="Our Coffee" />
-      <SectionDescription />
+      <SectionDescription  photo={imgGirl}/>
       <section>
         <FilterProvider>
           <Filter />
@@ -21,4 +23,4 @@ const OurCoffee: FC = () => {
   );
 };
 
-export default OurCoffee;
+export default OurCoffeePage;

@@ -2,11 +2,12 @@ import {FC} from 'react';
 import { motion } from 'framer-motion';
 
 import HeaderInfo from "./HeaderInfo";
+import { ourCoffeDescripiton } from "./Constants";
+interface SectionDescriptionProps {
+  photo: string;
 
-import { ourCoffeDesripiton } from "./Constants";
-import imgGirl from "../assets/img/HomeGirl.jpg";
-
-const SectionDescription: FC = () => {
+}
+const SectionDescription: FC<SectionDescriptionProps> = ({ photo}) => {
     return (
         <section>
         <div className="flex justify-between max-w-[800px] mt-16 mb-5 mx-auto">
@@ -16,7 +17,7 @@ const SectionDescription: FC = () => {
             transition={{ duration: 1 }}
             className="flex justify-center"
           >
-            <img src={imgGirl} alt="girl" />
+            <img src={photo} alt="girl" />
           </motion.div>
 
           <div className="max-w-[350px]">
@@ -27,7 +28,7 @@ const SectionDescription: FC = () => {
               transition={{ duration: 1 }}
               className="text-center"
             >
-              {ourCoffeDesripiton}
+              {ourCoffeDescripiton}
             </motion.p>
           </div>
         </div>

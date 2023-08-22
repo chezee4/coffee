@@ -1,32 +1,29 @@
 {
   "files": {
-    "main.css": "/coffee/static/css/main.40d4d383.css",
-    "main.js": "/coffee/static/js/main.1611333d.js",
-    "static/js/768.78e1a965.chunk.js": "/coffee/static/js/768.78e1a965.chunk.js",
-    "static/js/184.c44a9fd2.chunk.js": "/coffee/static/js/184.c44a9fd2.chunk.js",
-    "static/js/403.d9d2f521.chunk.js": "/coffee/static/js/403.d9d2f521.chunk.js",
-    "static/js/455.817ff04e.chunk.js": "/coffee/static/js/455.817ff04e.chunk.js",
-    "static/media/Spinner.gif": "/coffee/static/media/Spinner.6f480ba582a5e1552931.gif",
-    "static/media/BestProduct.jpg": "/coffee/static/media/BestProduct.e73347dac8273b8cda2a.jpg",
-    "static/media/OurCoffee.png": "/coffee/static/media/OurCoffee.aeee923e2d19311737a1.png",
-    "static/media/ourCoffeeBg.png": "/coffee/static/media/ourCoffeeBg.1dca390128f7685e23ea.png",
-    "static/media/ForYourPlace.jpg": "/coffee/static/media/ForYourPlace.4dba4553cd50d8671b5d.jpg",
-    "static/media/Product2.jpg": "/coffee/static/media/Product2.038d53e00cff35254c12.jpg",
-    "static/media/HomeGirl.jpg": "/coffee/static/media/HomeGirl.289abf315b9717804715.jpg",
-    "static/media/Product1.jpg": "/coffee/static/media/Product1.12ea4627d4c119316f2d.jpg",
+    "main.css": "/coffee/static/css/main.2654ea3b.css",
+    "main.js": "/coffee/static/js/main.7028399a.js",
+    "static/js/294.3c77eadc.chunk.js": "/coffee/static/js/294.3c77eadc.chunk.js",
+    "static/js/69.201c8afc.chunk.js": "/coffee/static/js/69.201c8afc.chunk.js",
+    "static/js/564.231795bd.chunk.js": "/coffee/static/js/564.231795bd.chunk.js",
+    "static/js/195.4633a3b2.chunk.js": "/coffee/static/js/195.4633a3b2.chunk.js",
+    "static/media/Spinner.gif": "/coffee/static/media/Spinner.a21b32a67b79119569f5.gif",
+    "static/media/OurCoffee.png": "/coffee/static/media/OurCoffee.5da2eb53c16d23a429e0.png",
+    "static/media/ourCoffeeBg.png": "/coffee/static/media/ourCoffeeBg.555b92c38e9960f19bc1.png",
+    "static/media/BestProduct.jpg": "/coffee/static/media/BestProduct.b8003be4876e23b7cbed.jpg",
+    "static/media/ForYourPlace.jpg": "/coffee/static/media/ForYourPlace.624c173f5393316fa4b8.jpg",
+    "static/media/Product2.jpg": "/coffee/static/media/Product2.f9de8a64e8a7d47266a7.jpg",
     "static/media/Product3.jpg": "/coffee/static/media/Product3.8132365cfd3695272196.jpg",
-    "static/media/CupOfCoffee.jpg": "/coffee/static/media/CupOfCoffee.011ededc4b847df5bb8b.jpg",
-    "static/media/coffee-beans.svg": "/coffee/static/media/coffee-beans.8e431abb02715f191dc18dc7fb4255a5.svg",
+    "static/media/coffee-beans.svg": "/coffee/static/media/coffee-beans.6e2e506b9684c76f1fee9ca7cdf976f2.svg",
     "index.html": "/coffee/index.html",
-    "main.40d4d383.css.map": "/coffee/static/css/main.40d4d383.css.map",
-    "main.1611333d.js.map": "/coffee/static/js/main.1611333d.js.map",
-    "768.78e1a965.chunk.js.map": "/coffee/static/js/768.78e1a965.chunk.js.map",
-    "184.c44a9fd2.chunk.js.map": "/coffee/static/js/184.c44a9fd2.chunk.js.map",
-    "403.d9d2f521.chunk.js.map": "/coffee/static/js/403.d9d2f521.chunk.js.map",
-    "455.817ff04e.chunk.js.map": "/coffee/static/js/455.817ff04e.chunk.js.map"
+    "main.2654ea3b.css.map": "/coffee/static/css/main.2654ea3b.css.map",
+    "main.7028399a.js.map": "/coffee/static/js/main.7028399a.js.map",
+    "294.3c77eadc.chunk.js.map": "/coffee/static/js/294.3c77eadc.chunk.js.map",
+    "69.201c8afc.chunk.js.map": "/coffee/static/js/69.201c8afc.chunk.js.map",
+    "564.231795bd.chunk.js.map": "/coffee/static/js/564.231795bd.chunk.js.map",
+    "195.4633a3b2.chunk.js.map": "/coffee/static/js/195.4633a3b2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.40d4d383.css",
-    "static/js/main.1611333d.js"
+    "static/css/main.2654ea3b.css",
+    "static/js/main.7028399a.js"
   ]
 }

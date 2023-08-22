@@ -12,7 +12,7 @@ const ForYourPleasurePage = lazy(() => import("../pages/ForYourPleasurePage"));
 
 const Router: FC = () => {
   return (
-    <BrowserRouter basename="/">
+    <BrowserRouter basename="coffee">
       <Suspense fallback={<Spinner/>}>
         <Header />
         <Routes>
